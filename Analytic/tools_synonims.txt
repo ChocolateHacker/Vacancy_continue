@@ -1,0 +1,18 @@
+{
+    'Базы данных':['SQL', 'MySQL', 'PostregeSQL', 'sqlite','MS SQL', 'MSSQL','MS Access', 'Oracle Pl/SQL', 'MS SQL Server', 'ORACLE'],
+    'HTML':['HTML','HTML5'],
+    'CSS':['CSS','CSS3'],
+    'JavaScript':['JavaScript'],
+    'UML':['UML'],
+    'Basic':['VBA'],
+    'Java':['Java'],
+    'C++':['C++'],
+    'C#':['C#'],
+    'Пакеты Office':['MS PowerPoint', 'MS Excel', 'MS Word', 'MS Visio', 'MS Project', 'MS Outlook',],
+    'Управление проектами':['Atlassian Jira', 'Jira', 'Scrum'],
+    'Python и библиотеки':['XML', ],
+    '1C':['1С: Предприятие', '1С: Управление Торговлей', '1С программирование', '1С: Бухгалтерия','1С-Битрикс','1С: Торговля'],
+    'Протоколы и архитектуры':['SOAP', 'REST', 'JSON API',],
+    'Языки':['Английский язык', ],
+    'аналитика':['Google Analytics', 'Яндекс.Метрика',]
+}
